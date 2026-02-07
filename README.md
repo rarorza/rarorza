@@ -1,12 +1,6 @@
 
 Full Stack Developer
 -------------
-<div align="center">
-  <a href="https://github.com/rarorza">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rarorza&show_icons=true&count_private=true&hide_border=true&title_color=ccc&icon_color=6b1515&text_color=ccc&bg_color=22272e"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarorza&layout=compact&hide_border=true&title_color=ccc&text_color=ccc&bg_color=22272e&hide=mako,html,css"/>
-</div>
-
 ## Skills
 <div style="display: inline-block"><br>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="center" alt="rarorza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
@@ -23,5 +17,4 @@ Full Stack Developer
 ## Contact
 <div> 
   <a href="https://linkedin.com/in/rarorza" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://rarorza.xyz/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20my%20site-20B2AA?style=for-the-badge" target="_blank"></a> 
  </div>
